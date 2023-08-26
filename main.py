@@ -4,6 +4,7 @@ pygame.init()
 
 cell_size = 30
 cell_no = 20
+pygame.display.set_caption('retro-snake')
 screen = pygame.display.set_mode((cell_no*cell_size, cell_no*cell_size))
 game_font = pygame.font.SysFont('Terminal',40)
 
