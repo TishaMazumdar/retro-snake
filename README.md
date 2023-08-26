@@ -52,3 +52,13 @@ An implementation of the classic Snake game using the `pygame` library. Traverse
 ## Contribution
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+
+![Playing Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss1.jpeg)
+
+![Hit_Wall Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss2.jpeg)
+
+![Hit_Body Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss3.jpeg)
+
+![Game_Over Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss4.jpeg)
