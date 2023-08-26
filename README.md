@@ -55,10 +55,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Screenshots
 
-![Playing Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss1.jpeg)
+![Playing Screen](https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss1.jpeg)
 
-![Hit_Wall Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss2.jpeg)
+![Hit_Wall Screen](https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss2.jpeg)
 
-![Hit_Body Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss3.jpeg)
+![Hit_Body Screen](https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss3.jpeg)
 
-![Game_Over Screen] (https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss4.jpeg)
+![Game_Over Screen](https://raw.githubusercontent.com/TishaMazumdar/retro-snake/main/screenshots/ss4.jpeg)
